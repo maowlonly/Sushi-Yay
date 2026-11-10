@@ -21,7 +21,7 @@ require "includes/header.php";
 </section>
 
 <section class="info-section">
-    <h2>About Sushi</h2>
+    <h2>This is Information About Sushi</h2>
     <p>-DESKRIPSI SUSHI-</p>
 
     <div class="info-grid">
